@@ -10,7 +10,7 @@ jaffle_shop:
       threads: 1
       host: postgres
       port: 5432
-      user: postgres
+      user: postgres  
       pass: postgres
       dbname: postgres
       schema: dbt
